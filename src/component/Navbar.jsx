@@ -38,7 +38,7 @@ const Navbar = () => {
                             <Link to="/link">LINK DETUCTION</Link>
                         </li>
                         <li className="hover:bg-gray-900 px-4 py-2 rounded hover:text-white">
-                            <Link to="/ea">EA</Link>
+                            <Link to="/ea">EMAIL</Link>
                         </li>
                         <li className="hover:bg-gray-900 px-4 py-2 rounded hover:text-white">
                             <Link to="/login">LOGIN</Link>

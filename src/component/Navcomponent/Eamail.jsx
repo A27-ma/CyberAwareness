@@ -2,7 +2,7 @@ import React from 'react'
 
 const Ea = () => {
   return (
-    <div>Ea</div>
+    <div>Eamail anylicer</div>
   )
 }
 

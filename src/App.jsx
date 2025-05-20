@@ -5,7 +5,7 @@ import './index.css'
 import Login from './component/Navcomponent/Login'
 import Post from './component/Navcomponent/Post'
 import LinkPage from './component/Navcomponent/Link'
-import Ea from './component/Navcomponent/Ea'
+import Ea from './component/Navcomponent/Eamail'
 import Home from './component/Home'
 
 const App = () => {
