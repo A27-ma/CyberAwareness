@@ -10,10 +10,10 @@ const Navbar = () => {
 
             <div>
 
-                <nav className="flex items-center justify-between px-6 py-4 w-full z-50 absolute  ">
+                <nav className=" bg- flex items-center justify-between px-6 py-4 w-full z-50 absolute  ">
                     <div>
                         <h1 className="text-2xl  text-white  font-bold cursor-pointer" style={{ textShadow: '2px 2px 4px black' }}>
-
+        
                             <Link to="/">SecureSphere</Link>
                         </h1>
                     </div>
